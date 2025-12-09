@@ -22,7 +22,7 @@ Backend robusto desarrollado con Django REST Framework y PostgreSQL, dockerizado
 ### Clonar el repositorio
 
 ```bash
-git clone <URL_DEL_REPOSITORIO>
+git clone https://github.com/MauricioBarrientos/E-Commerce-Store
 cd ecommerce_api
 ```
 
