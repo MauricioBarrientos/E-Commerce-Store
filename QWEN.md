@@ -1,2 +1,3 @@
 ## Qwen Added Memories
 - El usuario trabajó en el proyecto ecommerce_api ayer y ahora está preguntando sobre lo que se hizo entonces
+- Hemos completado el desarrollo de un proyecto E-Commerce API con Django REST Framework y frontend en React, resolviendo problemas de funcionalidad del carrito, integración con la API real, manejo de autenticación JWT, y cálculos de precios. El proyecto está listo para ser subido a GitHub en el repositorio https://github.com/MauricioBarrientos/E-Commerce-Store.git, pero se encontró un problema con git add y commit que se está resolviendo creando un .gitignore apropiado y usando git add -A para añadir todos los archivos al staging antes de hacer commit.
